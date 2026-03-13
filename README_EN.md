@@ -12,6 +12,8 @@
 
 Decrypts player coordinates encrypted by ACE (Anti-Cheat Expert) shellcode using Unicorn Engine emulation. Pure userspace implementation via Linux syscalls, no kernel module required.
 
+You only need to replace the offset address in the code with the correct address to get the actual decrypted coordinates. Of course, I will not provide this part of the code.
+
 ## Project Structure
 
 ```
